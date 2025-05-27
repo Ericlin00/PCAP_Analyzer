@@ -14,6 +14,6 @@ Overall min, max, and mean values for RTTs, packet counts, connection durations,
 # Usage #
 1. Open a terminal.
 2. Navigate to the directory where PCAP_analyzer.py is located
-3. Replcae the "replace_file_path" on line 263 with your own file path of the cap file
+3. Replcae the "replace_file_path" in main with your own file path of the cap file
 4. Run the program using the command:
 python PCAP_analyzer.py
